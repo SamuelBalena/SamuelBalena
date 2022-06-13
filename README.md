@@ -1,4 +1,4 @@
-# Olá ✋
+# Olá, sou Samuel Balena ✋
 
 - Entusiasta em UX Design e Desenvolvedor Front-end.
 - Graduando em Análise e Desenvolvimento de Sistemas.
