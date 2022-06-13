@@ -1,6 +1,6 @@
 # Olá ✋
 
-Eu sou Samuel Balena, estou na minha primeira graduação em ADS, e nas horas vagas gosto codar e fazer projetos mirabolantes.
+Seja bem-vindo ao meu github, sou Desenvolvedor Front-end e criador da lib Boo.
 
 ### 🌎  "A  **tecnologia**  move o mundo." 
 
