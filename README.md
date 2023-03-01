@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋 tudo bem?</h1>
 
 ###
-<p align="left">Bem-vindo ao meu universo 🌌 <br>Eu sou Samuel Balena Desenvolvedor Front Full-Stack 🚀🚀👨🏻‍💻</p>
+<p align="left">Bem-vindo ao meu universo 🌌 <br>Eu sou Samuel Balena Desenvolvedor Full-Stack 🚀🚀👨🏻‍💻</p>
 
 ###
 <h2 align="left">Sobre mim</h2>
